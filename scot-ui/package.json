@@ -20,7 +20,7 @@
 		"material-ui": "^0.20.2",
 		"moment": "^2.24.0",
 		"moment-range": "^4.0.2",
-		"node-sass": "^4.13.0",
+		"node-sass": "^6.0.1",
 		"normalize-scroll-left": "^0.2.0",
 		"notistack": "^0.9.7",
 		"react": "^16.12.0",
