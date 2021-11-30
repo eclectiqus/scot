@@ -1,4 +1,4 @@
-FROM mongo:3.4-xenial
+FROM mongo:3.6.20-xenial
 
 # Create the MongoDB data directory
 RUN mkdir -p /var/lib/mongodb 
